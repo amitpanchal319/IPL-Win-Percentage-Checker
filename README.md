@@ -31,3 +31,9 @@ Follow these steps to set up the project locally:
 1. Clone the repository:
    ```bash
    git clone https://github.com/amitpanchal319/IPL-Win-Percentage-Checker.git
+
+Contact
+Amit Panchal
+LinkedIn : https://www.linkedin.com/in/amit-panchal0319
+Email: amitpanchal0319@gmail.com
+
